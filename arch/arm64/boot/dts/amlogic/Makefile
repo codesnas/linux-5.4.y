@@ -82,6 +82,7 @@ dtb-$(CONFIG_ARCH_MESON) += meson-sm1-sei610.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-khadas-vim3l.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-oc.dtb
+dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-a100.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-ip1001m.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-ip1001m-2.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-100m.dtb
